@@ -28,7 +28,7 @@ function Header() {
         toggleMenu?.setMenuToggle(false);
       }
     });
-  }, []);
+  }, [changeColor]);
 
   return (
     <HeaderStyled hamburgerToggle={toggleMenu?.MenuToggle}>
