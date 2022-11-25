@@ -18,7 +18,7 @@ Starbucks Clone w React Js/ Context API and Typescript</h1>
 
 <h3 id="description">✍️ Description:</h3>
 
-<p>When I made this project, I deserve a coffee. Starbucks is one of the largest coffee companies in the world. Having a stunning UI, to copy this project was such a challenge because I wanted to use Context API to generate a Global State to parse the dropdown menu. The overall was that I create a little complex project that really works well in the hardest task that was to create a dropdown that change the site overflow.Check it out!</p>
+<p>When I made this project, I deserve a coffee. Starbucks is one of the largest coffee companies in the world. Having a stunning UI, to copy this project was such a challenge because I wanted to use Context API to generate a Global State to parse the dropdown menu. The overall was that I create a little complex project that really works well in the hardest task that was to create a dropdown that change the site overflow. Check it out!</p>
 
 <br />
 
